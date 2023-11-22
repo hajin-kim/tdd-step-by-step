@@ -7,5 +7,5 @@
 - [ ] Make `amount` private
 - [x] Dollar side effects?
 - [ ] Money rounding?
-- [ ] `equals()`
+- [ ] **`equals()`**
 - [ ] `hashCode()`
