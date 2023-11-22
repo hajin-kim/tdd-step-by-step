@@ -9,3 +9,5 @@
 - [ ] Money rounding?
 - [x] `equals()`
 - [ ] `hashCode()`
+- [ ] Equal null
+- [ ] Equal object
