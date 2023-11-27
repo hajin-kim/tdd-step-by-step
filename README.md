@@ -13,5 +13,6 @@
 - [ ] Equal object
 - [x] 5CHF \* 2 = 10CHF
 - [ ] `Dollar`/`Franc` duplication
-- [ ] **Common `equals()`**
+- [x] Common `equals()`
 - [ ] Common `times()`
+- [ ] Compare Francs with Dollars
