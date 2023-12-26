@@ -15,4 +15,4 @@
 - [ ] `Dollar`/`Franc` duplication
 - [x] Common `equals()`
 - [ ] Common `times()`
-- [ ] Compare Francs with Dollars
+- [ ] **Compare Francs with Dollars**
