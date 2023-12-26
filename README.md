@@ -14,7 +14,7 @@
 - [x] 5CHF \* 2 = 10CHF
 - [ ] `Dollar`/`Franc` duplication
 - [x] Common `equals()`
-- [ ] **Common `times()`**
+- [x] Common `times()`
 - [x] Compare Francs with Dollars
 - [x] Currency?
 - [ ] Delete `testFrancMultiplication`?
