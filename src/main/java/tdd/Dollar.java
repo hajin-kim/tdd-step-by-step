@@ -1,8 +1,11 @@
 package tdd;
 
 public class Dollar extends Money {
+    private final String currency;
+
     public Dollar(int amount) {
         this.amount = amount;
+        currency = "USD";
     }
 
     public Money times(int multiplier) {
@@ -10,6 +13,6 @@ public class Dollar extends Money {
     }
 
     public String currency() {
-        return "USD";
+        return currency;
     }
 }
